@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc51aeb6-9a09-4a44-837a-a7dd829bcc8e" name="Changes" comment="Create game loop">
-      <change afterPath="$PROJECT_DIR$/src/KL.java" afterDir="false" />
+    <list default="true" id="dc51aeb6-9a09-4a44-837a-a7dd829bcc8e" name="Changes" comment="Wrote code to establish user input handling">
+      <change afterPath="$PROJECT_DIR$/src/Rect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667248667361</updated>
-      <workItem from="1667248670350" duration="6493000" />
+      <workItem from="1667248670350" duration="9843000" />
     </task>
     <task id="LOCAL-00001" summary="Create game window">
       <created>1667249378430</created>
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667251368238</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Wrote code to establish user input handling">
+      <created>1667265856317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667265856317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create game window" />
     <MESSAGE value="Create game loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create game loop" />
+    <MESSAGE value="Wrote code to establish user input handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote code to establish user input handling" />
   </component>
 </project>
