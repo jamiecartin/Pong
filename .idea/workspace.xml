@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc51aeb6-9a09-4a44-837a-a7dd829bcc8e" name="Changes" comment="Built ball functionality">
-      <change afterPath="$PROJECT_DIR$/src/AIController.java" afterDir="false" />
+    <list default="true" id="dc51aeb6-9a09-4a44-837a-a7dd829bcc8e" name="Changes" comment="AI Controller">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667248667361</updated>
-      <workItem from="1667248670350" duration="25773000" />
+      <workItem from="1667248670350" duration="32558000" />
     </task>
     <task id="LOCAL-00001" summary="Create game window">
       <created>1667249378430</created>
@@ -107,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667425022269</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="AI Controller">
+      <created>1667439147949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667439147949</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +136,7 @@
     <MESSAGE value="Draw paddles and ball" />
     <MESSAGE value="Add player controller paddle functionality" />
     <MESSAGE value="Built ball functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Built ball functionality" />
+    <MESSAGE value="AI Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI Controller" />
   </component>
 </project>
