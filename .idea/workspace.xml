@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc51aeb6-9a09-4a44-837a-a7dd829bcc8e" name="Changes" comment="Add player controller paddle functionality">
-      <change afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
+    <list default="true" id="dc51aeb6-9a09-4a44-837a-a7dd829bcc8e" name="Changes" comment="Built ball functionality">
+      <change afterPath="$PROJECT_DIR$/src/AIController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667248667361</updated>
-      <workItem from="1667248670350" duration="18612000" />
+      <workItem from="1667248670350" duration="25773000" />
     </task>
     <task id="LOCAL-00001" summary="Create game window">
       <created>1667249378430</created>
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667418331568</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Built ball functionality">
+      <created>1667425022269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667425022269</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +130,7 @@
     <MESSAGE value="Wrote code to establish user input handling" />
     <MESSAGE value="Draw paddles and ball" />
     <MESSAGE value="Add player controller paddle functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add player controller paddle functionality" />
+    <MESSAGE value="Built ball functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Built ball functionality" />
   </component>
 </project>

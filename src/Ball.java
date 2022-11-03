@@ -2,7 +2,7 @@ public class Ball {
     public Rect rect;
     public Rect leftPaddle, rightPaddle;
 
-    private double vy = 10.0;
+    private double vy = 200.0;
     private double vx = -150.0;
     //velocity x, y
 
